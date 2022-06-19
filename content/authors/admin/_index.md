@@ -64,7 +64,7 @@ social:
 #   link: file:///Users/helloiyouway/Desktop/CV/Jiaying%20Song's%20CV%20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ya.song1102@gmail.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
