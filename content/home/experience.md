@@ -30,7 +30,6 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-12-01'
     description: |2-
-        Responsibilities include:
         
         * Participated in the Meituan 2021 brand upgrade campaign and collaborated with several departments. Defined the brand communication strategy based on the new positioning of the brand
         * Assisted in the development of the brand advertising strategy both online and offline. Coordinated the planning of all aspects of media platform features, placement cycles and exposure, ultimately achieving over 3 billion exposures 
@@ -46,7 +45,6 @@ experience:
     date_start: '2020-09-01'
     date_end: '2021-01-01'
     description: |2-
-        Responsibilities include:
         
         * Participated in content marketing, online branding and TVC communication for the promotion. Mainly responsible for writing promotional copy and TVC script creative output during the Double Eleven Festival period 
         * Operated the official Weibo account and assisted in the "Giant Penguin" event marketing project, assisted in the selection of bloggers who fit the brand's concept to cooperate with. Received over a hundred of KOL's retweets, achieved 150 million reads, and increased followers by 60,000+
@@ -59,7 +57,6 @@ experience:
     date_start: '2020-05-01'
     date_end: '2020-09-01'
     description: |2-
-        Responsibilities include:
         
         * Participated in the whole process marketing, assisted in the planning and execution of each Campaign, participated in the internal brainstorming of the team 
         * Be responsible for independently writing four competitive product reports every month, mainly for the price and online and offline communication which is compared and analyzed to improve team efficiency  
