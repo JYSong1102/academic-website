@@ -40,7 +40,7 @@ experience:
   - title: Brand Marketing Intern
     company: TENCENT
     company_url: ''
-    company_logo: 'media/icons/brands/tx-logo'
+    company_logo: tx-logo
     location: California
     date_start: '2020-09-01'
     date_end: '2021-01-01'
