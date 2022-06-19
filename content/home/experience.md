@@ -61,7 +61,7 @@ experience:
         * Participated in the whole process marketing, assisted in the planning and execution of each Campaign, participated in the internal brainstorming of the team 
         * Be responsible for independently writing four competitive product reports every month, mainly for the price and online and offline communication which is compared and analyzed to improve team efficiency  
         * Communicated with customer teams, analyzed customer’s needs, provided corresponding strategic solutions, and wrote the project briefs to ensure that customers are provided with the best communication plan
-        * Communicated with customer teams, analyzed customer’s needs, provided corresponding strategic solutions, and wrote the project briefs to ensure that customers are provided with the best communication plan
+        * Coordinate the resources of all parties to support the implementation of the campaign, such as advertising shooting 
 
 
 design:
