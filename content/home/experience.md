@@ -40,7 +40,7 @@ experience:
   - title: Brand Marketing Intern
     company: TENCENT
     company_url: ''
-    company_logo: org-x
+    company_logo: org-t
     location: California
     date_start: '2020-09-01'
     date_end: '2021-01-01'
@@ -52,7 +52,7 @@ experience:
   - title: AE Intern
     company: WUNDERMAN THOMPSON 
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Shanghai, China
     date_start: '2020-05-01'
     date_end: '2020-09-01'
