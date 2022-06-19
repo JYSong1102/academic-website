@@ -25,7 +25,7 @@ experience:
   - title: Brand Marketing Intern
     company: MEITUAN
     company_url: 'https://about.meituan.com/en'
-    company_logo: ''
+    company_logo: org-gc
     location: Beijing, China
     date_start: '2021-05-01'
     date_end: '2021-12-01'
