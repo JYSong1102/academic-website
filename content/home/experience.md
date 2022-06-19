@@ -25,7 +25,7 @@ experience:
   - title: Brand Marketing Intern
     company: MEITUAN
     company_url: 'https://about.meituan.com/en'
-    company_logo: org-gc
+    company_logo: ''
     location: Beijing, China
     date_start: '2021-05-01'
     date_end: '2021-12-01'
@@ -40,7 +40,7 @@ experience:
   - title: Brand Marketing Intern
     company: TENCENT
     company_url: 'https://www.tencent.com/en-us/'
-    company_logo: tx-logo
+    company_logo: ''
     location: Shenzhen, China
     date_start: '2020-09-01'
     date_end: '2021-01-01'
@@ -52,7 +52,7 @@ experience:
   - title: AE Intern
     company: WUNDERMAN THOMPSON 
     company_url: 'https://www.wundermanthompson.com/'
-    company_logo: org-x
+    company_logo: ''
     location: Shanghai, China
     date_start: '2020-05-01'
     date_end: '2020-09-01'
