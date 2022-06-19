@@ -61,10 +61,10 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: file:///Users/helloiyouway/Desktop/CV/Jiaying%20Song's%20CV%20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ya.song1102@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
