@@ -1,12 +1,12 @@
 ---
-title: Example Project
+title: Project
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.canva.com/design/DAFEFtFehBI/CKeLWm6zrJg0BKhYTRBirA/edit?utm_content=DAFEFtFehBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 
 image:
   caption: Photo by rawpixel on Unsplash
