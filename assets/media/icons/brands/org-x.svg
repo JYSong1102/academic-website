@@ -3,14 +3,14 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{display:none;}
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
 	.st2{display:inline;fill:none;}
 </style>
-<g>
+<g class="st0">
 	<title>background</title>
-	<rect id="canvas_background" x="-1" y="-1" class="st0" width="58" height="58"/>
-	<g id="canvasGrid" class="st1">
+	<rect id="canvas_background" x="-1" y="-1" class="st1" width="58" height="58"/>
+	<g id="canvasGrid">
 		<rect y="0" class="st2" width="56" height="56"/>
 	</g>
 </g>
