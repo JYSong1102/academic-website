@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiaying Song (Yvonna)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduated Advertising student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of the Arts London
+    url: https://www.arts.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
