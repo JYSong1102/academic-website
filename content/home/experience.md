@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Brand Marketing Intern
     company: MEITUAN
-    company_url: ''
+    company_url: 'https://www.tencent.com/en-us/'
     company_logo: org-gc
     location: Beijing, China
     date_start: '2021-05-01'
